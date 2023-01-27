@@ -5,3 +5,6 @@
 - 💞️ I’m looking to collaborate with  others to make interesting projects
 -  connect with me :
 -  [www.linkedin.com/in/saeed-jaradat]
+**Skills and languages:**
+ REACT / JS / HTML / CSS/Python
+
