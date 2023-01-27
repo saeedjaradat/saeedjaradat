@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @saeedjaradat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-saeedjaradat/saeedjaradat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi there, I’m @saeedjaradat
+- 👀 I’m interested in Back-End web development
+- 🌱 I’m currently learning  javascript stack(react.js)
+- 💞️ I’m looking to collaborate with  others to make interesting projects
+-  connect with me :
+-  [www.linkedin.com/in/saeed-jaradat]
